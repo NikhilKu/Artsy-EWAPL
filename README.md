@@ -6,7 +6,7 @@ The project is created with the framework Laravel. While this is our first time 
 we believe the end result is good enough to publish.
 
 ## Preview
-<img src="https://image.ibb.co/mseU46/artsy.gif" width="700px"/>
+<img src="/gif/artsy.gif?raw=true" width="700px"/>
 
 
 ## What is included
