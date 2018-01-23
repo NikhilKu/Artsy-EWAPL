@@ -18,7 +18,7 @@ we believe the end result is good enough to publish.
 
 ## Usage
 1. Install [Composer](https://getcomposer.org)
-   <br>You can find the install guide [here](https://getcomposer.org/download)
+   <br>Find the install guide [here](https://getcomposer.org/download)
 2. After step 1, setup the database with the included `empty_database.sql` file.
 3. Make a connection with the database by editing the `.env.example` file.
 
