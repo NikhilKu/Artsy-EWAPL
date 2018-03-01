@@ -43,7 +43,7 @@ php artisan storage:link
   
   
 ## Core Developers
-- Nikhil Kumar - [GitHub](https://github.com/NikhKu)
+- Nikhil Kumar - [GitHub](https://github.com/nikhilku)
 - Jordy Quak - [Github](https://github.com/jrquak)
 - Tom van Etten - [Github](https://github.com/TomvEtten)
 - Jimmy  Egberts - [Github](https://github.com/JimmyEgberts)
